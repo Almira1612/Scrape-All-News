@@ -1,0 +1,27 @@
+{
+  "name": "scrape-all-news",
+  "version": "1.0.0",
+  "description": "All the News That's Fit to Scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almira1612/Scrape-All-News.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Almira1612/Scrape-All-News/issues"
+  },
+  "homepage": "https://github.com/Almira1612/Scrape-All-News#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.12",
+    "request": "^2.82.0"
+  }
+}
